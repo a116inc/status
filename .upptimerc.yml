@@ -39,5 +39,6 @@ status-website:
     - title: A116
       href: https://a116.com.br
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  commitAuthorName: "Rico Crivelli"
+  commitAuthorEmail: "ricardocrivelli@gmail.com"
