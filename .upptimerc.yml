@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: a116inc # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
   - name: A116 Server 101
@@ -35,7 +35,7 @@ status-website:
   introMessage: "Atualizações, status de rede, serviços e servidores da A116"
   navbar:
     - title: Status
-      href: /
+      href: https://status.a116.com.br
     - title: A116
       href: https://a116.com.br
 
