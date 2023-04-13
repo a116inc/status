@@ -13,7 +13,7 @@
     "time": 98,
     "timeDay": 72,
     "timeWeek": 88,
-    "timeMonth": 96,
+    "timeMonth": 95,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2022-08-11": 19
@@ -33,7 +33,7 @@
     "time": 96,
     "timeDay": 83,
     "timeWeek": 86,
-    "timeMonth": 95,
+    "timeMonth": 94,
     "timeYear": 96,
     "dailyMinutesDown": {
       "2022-08-11": 19
@@ -53,10 +53,10 @@
     "time": 350,
     "timeDay": 334,
     "timeWeek": 314,
-    "timeMonth": 329,
+    "timeMonth": 332,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-04-13": 1396,
+      "2023-04-13": 1408,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
@@ -257,7 +257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-13": 1397,
+      "2023-04-13": 1408,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
@@ -568,7 +568,7 @@
     "time": 94,
     "timeDay": 87,
     "timeWeek": 90,
-    "timeMonth": 95,
+    "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
       "2022-12-28": 937,
@@ -620,7 +620,7 @@
     "time": 106,
     "timeDay": 87,
     "timeWeek": 90,
-    "timeMonth": 96,
+    "timeMonth": 95,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2022-12-28": 1209,
@@ -720,7 +720,7 @@
     "time": 49,
     "timeDay": 44,
     "timeWeek": 45,
-    "timeMonth": 48,
+    "timeMonth": 47,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2022-12-28": 938,
@@ -768,7 +768,7 @@
     "time": 542,
     "timeDay": 834,
     "timeWeek": 861,
-    "timeMonth": 892,
+    "timeMonth": 886,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2022-08-11": 16,
@@ -780,19 +780,19 @@
     "url": "$URL_IFSP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a116-osiris-server",
-    "status": "down",
+    "status": "up",
     "uptime": "97.69%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.22%",
     "uptimeWeek": "49.81%",
-    "uptimeMonth": "88.33%",
+    "uptimeMonth": "88.30%",
     "uptimeYear": "97.69%",
     "time": 1138,
-    "timeDay": 0,
-    "timeWeek": 1099,
-    "timeMonth": 1100,
+    "timeDay": 1102,
+    "timeWeek": 1100,
+    "timeMonth": 1105,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2023-04-13": 0,
+      "2023-04-13": 11,
       "2023-04-10": 696,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
